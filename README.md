@@ -1,6 +1,6 @@
 ### 👋 Hola! soy Nahuel Chierichetti
 ### Estudiante de Diseño y Desarrollo web en Escuela Multimedial Da Vinci.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahuel_Nicolás_Chierichetti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nahuelnicoláschierichetti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahuel_Nicolás_Chierichetti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nahuel-nicol%C3%A1s-chierichetti-346a32201/)
 
 ## Skills:
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
